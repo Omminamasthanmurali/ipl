@@ -1,7 +1,1 @@
-﻿# Mumbai Indians (MI)
-
-### 🧤 Wicketkeepers
-
-- Luke Ronchi
-- Yogesh Takawale
-- Pinal Shah
+﻿

@@ -1,9 +1,1 @@
-﻿# Mumbai Indians (MI)
-
-### 🏏 Batters
-
-- Sachin Tendulkar
-- JP Duminy
-- Shikhar Dhawan
-- Saurabh Tiwary
-- Abhishek Nayar
+﻿
