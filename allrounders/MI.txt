@@ -2,7 +2,6 @@
 
 ### ⭐ All-rounders
 
-* Shaun Pollock
-* Dwayne Bravo
-* Abhishek Nayar
-* Rohan Raje
+- Dwayne Bravo
+- Shaun Pollock
+- Ryan McLaren

@@ -1,6 +1,6 @@
-﻿#PBKS
+﻿# PBKS
 
 ### ⭐ All-rounders
 
-* Irfan Pathan
-* James Hopes
+- Irfan Pathan
+- James Hopes

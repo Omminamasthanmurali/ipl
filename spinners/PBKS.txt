@@ -1,6 +1,6 @@
-﻿#PBKS
+﻿# PBKS
 
 ### 🎯 Spin Bowlers
 
-* Piyush Chawla
-* Ramesh Powar ([IPL][1])
+- Piyush Chawla
+- Ramesh Powar ([CricTotal](https://www.crictotal.com/series/ipl-2009/squads.php?utm_source=chatgpt.com))

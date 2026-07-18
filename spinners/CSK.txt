@@ -2,4 +2,5 @@
 
 ### 🎯 Spin Bowlers
 
-* Muttiah Muralitharan ([IPL][1])
+- Muttiah Muralitharan
+- R. Ashwin ([CricTotal](https://www.crictotal.com/series/ipl-2009/squads.php?utm_source=chatgpt.com))

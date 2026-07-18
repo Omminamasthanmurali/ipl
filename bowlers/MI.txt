@@ -2,7 +2,6 @@
 
 ### 🧤 Wicketkeepers
 
-* Robin Uthappa
-* Luke Ronchi
-* Yogesh Takawale
-* Pinal Shah
+- Luke Ronchi
+- Yogesh Takawale
+- Pinal Shah

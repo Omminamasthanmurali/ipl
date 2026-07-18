@@ -1,6 +1,5 @@
-﻿# Rajasthan Royals (Champions)
+﻿# Rajasthan Royals
 
 ### 🧤 Wicketkeepers
 
-* Kamran Akmal
-* Mahesh Rawat
+- Naman Ojha

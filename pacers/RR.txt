@@ -1,7 +1,7 @@
-﻿# Rajasthan Royals (Champions)
+﻿# Rajasthan Royals
 
 ### ⚡ Pace Bowlers
 
-* Sohail Tanvir
-* Munaf Patel
-* Siddharth Trivedi
+- Munaf Patel
+- Morne Morkel
+- Kamran Khan

@@ -1,7 +1,7 @@
-﻿# Kolkata Knight Riders (KKR)
+﻿# Kolkata Knight Riders
 
 ### ⚡ Pace Bowlers
 
-* Ishant Sharma
-* Umar Gul
-* Ashok Dinda
+- Ishant Sharma
+- Ashok Dinda
+- Charl Langeveldt

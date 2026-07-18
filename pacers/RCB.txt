@@ -1,7 +1,6 @@
-﻿# Royal Challengers Bangalore
+﻿# Royal Challengers Bangalore (Runner-up)
 
 ### ⚡ Pace Bowlers
 
-* Dale Steyn
-* Vinay Kumar
-* Zaheer Khan
+- Dale Steyn
+- Vinay Kumar

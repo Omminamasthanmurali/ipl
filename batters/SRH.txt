@@ -2,6 +2,7 @@
 
 ### 🏏 Batters
 
-* Adam Gilchrist
-* Herschelle Gibbs
-* Rohit Sharma
+- Adam Gilchrist
+- Herschelle Gibbs
+- Rohit Sharma
+- Tirumalasetti Suman

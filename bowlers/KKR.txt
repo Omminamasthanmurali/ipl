@@ -1,6 +1,6 @@
-﻿# Kolkata Knight Riders (KKR)
+﻿# Kolkata Knight Riders
 
 ### 🧤 Wicketkeepers
 
-* Brendon McCullum
-* Wriddhiman Saha
+- Brendon McCullum
+- Wriddhiman Saha

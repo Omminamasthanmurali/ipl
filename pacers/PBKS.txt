@@ -1,8 +1,7 @@
-﻿#PBKS
+﻿# PBKS
 
 ### ⚡ Pace Bowlers
 
-* Brett Lee
-* S. Sreesanth
-* Vikram Singh
-* Gagandeep Singh
+- Brett Lee
+- S. Sreesanth
+- Yusuf Abdulla

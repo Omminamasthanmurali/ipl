@@ -1,10 +1,10 @@
-﻿# Royal Challengers Bangalore
+﻿# Royal Challengers Bangalore (Runner-up)
 
 ### 🏏 Batters
 
-* Rahul Dravid
-* Jacques Kallis
-* Ross Taylor
-* Shivnarine Chanderpaul
-* Wasim Jaffer
-* Misbah-ul-Haq
+- Rahul Dravid
+- Ross Taylor
+- Virat Kohli
+- Jesse Ryder
+- Kevin Pietersen
+- Robin Uthappa

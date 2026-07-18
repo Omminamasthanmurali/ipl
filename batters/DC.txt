@@ -2,7 +2,9 @@
 
 ### 🏏 Batters
 
-* Virender Sehwag
-* Gautam Gambhir
-* Shikhar Dhawan
-* Tillakaratne Dilshan
+- Virender Sehwag
+- Gautam Gambhir
+- AB de Villiers
+- David Warner
+- Tillakaratne Dilshan
+- Owais Shah

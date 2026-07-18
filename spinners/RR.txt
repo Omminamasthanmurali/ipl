@@ -1,7 +1,6 @@
-﻿# Rajasthan Royals (Champions)
+﻿# Rajasthan Royals
 
 ### 🎯 Spin Bowlers
 
-* Shane Warne
-* Pankaj Singh
-* Dinesh Salunkhe ([IPL][1])
+- Shane Warne
+- Siddharth Trivedi ([CricTotal](https://www.crictotal.com/series/ipl-2009/squads.php?utm_source=chatgpt.com))

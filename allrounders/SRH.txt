@@ -2,5 +2,6 @@
 
 ### ⭐ All-rounders
 
-* Andrew Symonds
-* Shahid Afridi
+- Andrew Symonds
+- Dwayne Smith
+- Ryan Harris

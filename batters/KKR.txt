@@ -1,9 +1,9 @@
-﻿# Kolkata Knight Riders (KKR)
+﻿# Kolkata Knight Riders
 
 ### 🏏 Batters
 
-* Sourav Ganguly
-* David Hussey
-* Salman Butt
-* Ricky Ponting
-* Aakash Chopra
+- Brendon McCullum
+- Chris Gayle
+- Brad Hodge
+- Sourav Ganguly
+- David Hussey

@@ -1,5 +1,5 @@
-﻿# Kolkata Knight Riders (KKR)
+﻿# Kolkata Knight Riders
 
 ### 🎯 Spin Bowlers
 
-* Murali Kartik ([IPL][1])
+- Murali Kartik ([CricTotal](https://www.crictotal.com/series/ipl-2009/squads.php?utm_source=chatgpt.com))

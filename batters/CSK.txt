@@ -2,11 +2,9 @@
 
 ### 🏏 Batters
 
-* Matthew Hayden
-* Michael Hussey
-* Suresh Raina
-* Stephen Fleming
-* S. Badrinath
-* Chamara Kapugedera
-* Abhinav Mukund
-* Vidyut Sivaramakrishnan
+- Matthew Hayden
+- Michael Hussey
+- Suresh Raina
+- S. Badrinath
+- George Bailey
+- Vidyut Sivaramakrishnan

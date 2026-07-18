@@ -1,9 +1,7 @@
-﻿# Kolkata Knight Riders (KKR)
+﻿# Kolkata Knight Riders
 
 ### ⭐ All-rounders
 
-* Chris Gayle
-* Moises Henriques
-* Laxmi Shukla
-* Ajit Agarkar
-* Shoaib Akhtar
+- Moises Henriques
+- Laxmi Shukla
+- Ajit Agarkar

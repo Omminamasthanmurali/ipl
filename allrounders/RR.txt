@@ -1,9 +1,7 @@
-﻿# Rajasthan Royals (Champions)
+﻿# Rajasthan Royals
 
 ### ⭐ All-rounders
 
-* Shane Watson
-* Yusuf Pathan
-* Ravindra Jadeja
-* Dimitri Mascarenhas
-* Taruwar Kohli
+- Shane Watson
+- Ravindra Jadeja
+- Dimitri Mascarenhas
